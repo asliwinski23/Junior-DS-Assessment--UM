@@ -1,0 +1,100 @@
+model_name,features,test_accuracy,test_precision,test_recall,test_f1,test_roc_auc
+Logistic Regression,['Gender'],0.7043478260869566,0.7043478260869566,1.0,0.826530612244898,0.5
+Logistic Regression,['Married'],0.7043478260869566,0.7043478260869566,1.0,0.826530612244898,0.5
+Logistic Regression,['Dependents'],0.7043478260869566,0.7043478260869566,1.0,0.826530612244898,0.5
+Logistic Regression,['Education'],0.7043478260869566,0.7043478260869566,1.0,0.826530612244898,0.5
+Logistic Regression,['Self_Employed'],0.7043478260869566,0.7043478260869566,1.0,0.826530612244898,0.5
+Logistic Regression,['Loan_Amount_Term_Months'],0.2956521739130435,0.0,0.0,0.0,0.5
+Logistic Regression,['Credit_History'],0.8173913043478261,0.7941176470588235,1.0,0.8852459016393442,0.6911764705882353
+Logistic Regression,['Property_Area'],0.7043478260869566,0.7043478260869566,1.0,0.826530612244898,0.5
+Logistic Regression,['Applicant_Income(total yearly)_to_Loan_Amount(total)'],0.7043478260869566,0.7043478260869566,1.0,0.826530612244898,0.5
+Logistic Regression,['Coapplicant'],0.7043478260869566,0.7043478260869566,1.0,0.826530612244898,0.5
+Logistic Regression,"['Credit_History', 'Gender']",0.8173913043478261,0.7941176470588235,1.0,0.8852459016393442,0.6911764705882353
+Logistic Regression,"['Credit_History', 'Married']",0.8173913043478261,0.7941176470588235,1.0,0.8852459016393442,0.6911764705882353
+Logistic Regression,"['Credit_History', 'Dependents']",0.8173913043478261,0.7941176470588235,1.0,0.8852459016393442,0.6911764705882353
+Logistic Regression,"['Credit_History', 'Education']",0.8173913043478261,0.7941176470588235,1.0,0.8852459016393442,0.6911764705882353
+Logistic Regression,"['Credit_History', 'Self_Employed']",0.8173913043478261,0.7941176470588235,1.0,0.8852459016393442,0.6911764705882353
+Logistic Regression,"['Credit_History', 'Loan_Amount_Term_Months']",0.2956521739130435,0.0,0.0,0.0,0.5
+Logistic Regression,"['Credit_History', 'Property_Area']",0.8173913043478261,0.7941176470588235,1.0,0.8852459016393442,0.6911764705882353
+Logistic Regression,"['Credit_History', 'Applicant_Income(total yearly)_to_Loan_Amount(total)']",0.8173913043478261,0.7941176470588235,1.0,0.8852459016393442,0.6911764705882353
+Logistic Regression,"['Credit_History', 'Coapplicant']",0.8173913043478261,0.7941176470588235,1.0,0.8852459016393442,0.6911764705882353
+Logistic Regression,"['Credit_History', 'Gender', 'Married']",0.8173913043478261,0.7941176470588235,1.0,0.8852459016393442,0.6911764705882353
+Logistic Regression,"['Credit_History', 'Gender', 'Dependents']",0.8173913043478261,0.7941176470588235,1.0,0.8852459016393442,0.6911764705882353
+Logistic Regression,"['Credit_History', 'Gender', 'Education']",0.8173913043478261,0.7941176470588235,1.0,0.8852459016393442,0.6911764705882353
+Logistic Regression,"['Credit_History', 'Gender', 'Self_Employed']",0.8173913043478261,0.7941176470588235,1.0,0.8852459016393442,0.6911764705882353
+Logistic Regression,"['Credit_History', 'Gender', 'Loan_Amount_Term_Months']",0.2956521739130435,0.0,0.0,0.0,0.5
+Logistic Regression,"['Credit_History', 'Gender', 'Property_Area']",0.8173913043478261,0.7941176470588235,1.0,0.8852459016393442,0.6911764705882353
+Logistic Regression,"['Credit_History', 'Gender', 'Applicant_Income(total yearly)_to_Loan_Amount(total)']",0.8173913043478261,0.7941176470588235,1.0,0.8852459016393442,0.6911764705882353
+Logistic Regression,"['Credit_History', 'Gender', 'Coapplicant']",0.8173913043478261,0.7941176470588235,1.0,0.8852459016393442,0.6911764705882353
+Logistic Regression,"['Credit_History', 'Gender', 'Married', 'Dependents']",0.8173913043478261,0.7941176470588235,1.0,0.8852459016393442,0.6911764705882353
+Logistic Regression,"['Credit_History', 'Gender', 'Married', 'Education']",0.8173913043478261,0.7941176470588235,1.0,0.8852459016393442,0.6911764705882353
+Logistic Regression,"['Credit_History', 'Gender', 'Married', 'Self_Employed']",0.8173913043478261,0.7941176470588235,1.0,0.8852459016393442,0.6911764705882353
+Logistic Regression,"['Credit_History', 'Gender', 'Married', 'Loan_Amount_Term_Months']",0.2956521739130435,0.0,0.0,0.0,0.5
+Logistic Regression,"['Credit_History', 'Gender', 'Married', 'Property_Area']",0.8173913043478261,0.7941176470588235,1.0,0.8852459016393442,0.6911764705882353
+Logistic Regression,"['Credit_History', 'Gender', 'Married', 'Applicant_Income(total yearly)_to_Loan_Amount(total)']",0.8173913043478261,0.7941176470588235,1.0,0.8852459016393442,0.6911764705882353
+Logistic Regression,"['Credit_History', 'Gender', 'Married', 'Coapplicant']",0.8173913043478261,0.7941176470588235,1.0,0.8852459016393442,0.6911764705882353
+Logistic Regression,"['Credit_History', 'Gender', 'Married', 'Dependents', 'Education']",0.8173913043478261,0.7941176470588235,1.0,0.8852459016393442,0.6911764705882353
+Logistic Regression,"['Credit_History', 'Gender', 'Married', 'Dependents', 'Self_Employed']",0.8173913043478261,0.7941176470588235,1.0,0.8852459016393442,0.6911764705882353
+Logistic Regression,"['Credit_History', 'Gender', 'Married', 'Dependents', 'Loan_Amount_Term_Months']",0.2956521739130435,0.0,0.0,0.0,0.5
+Logistic Regression,"['Credit_History', 'Gender', 'Married', 'Dependents', 'Property_Area']",0.8173913043478261,0.7941176470588235,1.0,0.8852459016393442,0.6911764705882353
+Logistic Regression,"['Credit_History', 'Gender', 'Married', 'Dependents', 'Applicant_Income(total yearly)_to_Loan_Amount(total)']",0.8173913043478261,0.7941176470588235,1.0,0.8852459016393442,0.6911764705882353
+Logistic Regression,"['Credit_History', 'Gender', 'Married', 'Dependents', 'Coapplicant']",0.8173913043478261,0.7941176470588235,1.0,0.8852459016393442,0.6911764705882353
+Logistic Regression,"['Credit_History', 'Gender', 'Married', 'Dependents', 'Education', 'Self_Employed']",0.8173913043478261,0.7941176470588235,1.0,0.8852459016393442,0.6911764705882353
+Logistic Regression,"['Credit_History', 'Gender', 'Married', 'Dependents', 'Education', 'Loan_Amount_Term_Months']",0.2956521739130435,0.0,0.0,0.0,0.5
+Logistic Regression,"['Credit_History', 'Gender', 'Married', 'Dependents', 'Education', 'Property_Area']",0.8173913043478261,0.7941176470588235,1.0,0.8852459016393442,0.6911764705882353
+Logistic Regression,"['Credit_History', 'Gender', 'Married', 'Dependents', 'Education', 'Applicant_Income(total yearly)_to_Loan_Amount(total)']",0.8173913043478261,0.7941176470588235,1.0,0.8852459016393442,0.6911764705882353
+Logistic Regression,"['Credit_History', 'Gender', 'Married', 'Dependents', 'Education', 'Coapplicant']",0.8173913043478261,0.7941176470588235,1.0,0.8852459016393442,0.6911764705882353
+Logistic Regression,"['Credit_History', 'Gender', 'Married', 'Dependents', 'Education', 'Self_Employed', 'Loan_Amount_Term_Months']",0.2956521739130435,0.0,0.0,0.0,0.5
+Logistic Regression,"['Credit_History', 'Gender', 'Married', 'Dependents', 'Education', 'Self_Employed', 'Property_Area']",0.8173913043478261,0.7941176470588235,1.0,0.8852459016393442,0.6911764705882353
+Logistic Regression,"['Credit_History', 'Gender', 'Married', 'Dependents', 'Education', 'Self_Employed', 'Applicant_Income(total yearly)_to_Loan_Amount(total)']",0.8173913043478261,0.7941176470588235,1.0,0.8852459016393442,0.6911764705882353
+Logistic Regression,"['Credit_History', 'Gender', 'Married', 'Dependents', 'Education', 'Self_Employed', 'Coapplicant']",0.8173913043478261,0.7941176470588235,1.0,0.8852459016393442,0.6911764705882353
+Logistic Regression,"['Credit_History', 'Gender', 'Married', 'Dependents', 'Education', 'Self_Employed', 'Property_Area', 'Loan_Amount_Term_Months']",0.2956521739130435,0.0,0.0,0.0,0.5
+Logistic Regression,"['Credit_History', 'Gender', 'Married', 'Dependents', 'Education', 'Self_Employed', 'Property_Area', 'Applicant_Income(total yearly)_to_Loan_Amount(total)']",0.8173913043478261,0.7941176470588235,1.0,0.8852459016393442,0.6911764705882353
+Logistic Regression,"['Credit_History', 'Gender', 'Married', 'Dependents', 'Education', 'Self_Employed', 'Property_Area', 'Coapplicant']",0.8173913043478261,0.7941176470588235,1.0,0.8852459016393442,0.6911764705882353
+Logistic Regression,"['Credit_History', 'Gender', 'Married', 'Dependents', 'Education', 'Self_Employed', 'Property_Area', 'Applicant_Income(total yearly)_to_Loan_Amount(total)', 'Loan_Amount_Term_Months']",0.2956521739130435,0.0,0.0,0.0,0.5
+Logistic Regression,"['Credit_History', 'Gender', 'Married', 'Dependents', 'Education', 'Self_Employed', 'Property_Area', 'Applicant_Income(total yearly)_to_Loan_Amount(total)', 'Coapplicant']",0.8173913043478261,0.7941176470588235,1.0,0.8852459016393442,0.6911764705882353
+Logistic Regression,"['Credit_History', 'Gender', 'Married', 'Dependents', 'Education', 'Self_Employed', 'Property_Area', 'Applicant_Income(total yearly)_to_Loan_Amount(total)', 'Coapplicant', 'Loan_Amount_Term_Months']",0.2956521739130435,0.0,0.0,0.0,0.5
+Random Forest Classifier,['Gender'],0.7043478260869566,0.7043478260869566,1.0,0.826530612244898,0.5
+Random Forest Classifier,['Married'],0.7043478260869566,0.7043478260869566,1.0,0.826530612244898,0.5
+Random Forest Classifier,['Dependents'],0.7043478260869566,0.7043478260869566,1.0,0.826530612244898,0.5
+Random Forest Classifier,['Education'],0.7043478260869566,0.7043478260869566,1.0,0.826530612244898,0.5
+Random Forest Classifier,['Self_Employed'],0.7043478260869566,0.7043478260869566,1.0,0.826530612244898,0.5
+Random Forest Classifier,['Loan_Amount_Term_Months'],0.2956521739130435,0.0,0.0,0.0,0.5
+Random Forest Classifier,['Credit_History'],0.8173913043478261,0.7941176470588235,1.0,0.8852459016393442,0.6911764705882353
+Random Forest Classifier,['Property_Area'],0.7043478260869566,0.7043478260869566,1.0,0.826530612244898,0.5
+Random Forest Classifier,['Applicant_Income(total yearly)_to_Loan_Amount(total)'],0.5130434782608696,0.676056338028169,0.5925925925925926,0.631578947368421,0.4580610021786492
+Random Forest Classifier,['Coapplicant'],0.7043478260869566,0.7043478260869566,1.0,0.826530612244898,0.5
+Random Forest Classifier,"['Credit_History', 'Gender']",0.8173913043478261,0.7941176470588235,1.0,0.8852459016393442,0.6911764705882353
+Random Forest Classifier,"['Credit_History', 'Married']",0.8173913043478261,0.7941176470588235,1.0,0.8852459016393442,0.6911764705882353
+Random Forest Classifier,"['Credit_History', 'Dependents']",0.8173913043478261,0.7941176470588235,1.0,0.8852459016393442,0.6911764705882353
+Random Forest Classifier,"['Credit_History', 'Education']",0.8173913043478261,0.7941176470588235,1.0,0.8852459016393442,0.6911764705882353
+Random Forest Classifier,"['Credit_History', 'Self_Employed']",0.8173913043478261,0.7941176470588235,1.0,0.8852459016393442,0.6911764705882353
+Random Forest Classifier,"['Credit_History', 'Loan_Amount_Term_Months']",0.8173913043478261,0.7941176470588235,1.0,0.8852459016393442,0.6911764705882353
+Random Forest Classifier,"['Credit_History', 'Property_Area']",0.8173913043478261,0.7941176470588235,1.0,0.8852459016393442,0.6911764705882353
+Random Forest Classifier,"['Credit_History', 'Applicant_Income(total yearly)_to_Loan_Amount(total)']",0.5826086956521739,0.746268656716418,0.6172839506172839,0.6756756756756757,0.558641975308642
+Random Forest Classifier,"['Credit_History', 'Coapplicant']",0.8173913043478261,0.7941176470588235,1.0,0.8852459016393442,0.6911764705882353
+Random Forest Classifier,"['Credit_History', 'Gender', 'Married']",0.8173913043478261,0.7941176470588235,1.0,0.8852459016393442,0.6911764705882353
+Random Forest Classifier,"['Credit_History', 'Gender', 'Dependents']",0.8173913043478261,0.7941176470588235,1.0,0.8852459016393442,0.6911764705882353
+Random Forest Classifier,"['Credit_History', 'Gender', 'Education']",0.8173913043478261,0.7941176470588235,1.0,0.8852459016393442,0.6911764705882353
+Random Forest Classifier,"['Credit_History', 'Gender', 'Self_Employed']",0.8173913043478261,0.7941176470588235,1.0,0.8852459016393442,0.6911764705882353
+Random Forest Classifier,"['Credit_History', 'Gender', 'Loan_Amount_Term_Months']",0.8173913043478261,0.7941176470588235,1.0,0.8852459016393442,0.6911764705882353
+Random Forest Classifier,"['Credit_History', 'Gender', 'Property_Area']",0.8173913043478261,0.7941176470588235,1.0,0.8852459016393442,0.6911764705882353
+Random Forest Classifier,"['Credit_History', 'Gender', 'Applicant_Income(total yearly)_to_Loan_Amount(total)']",0.5739130434782609,0.6951219512195121,0.7037037037037037,0.6993865030674846,0.4842047930283224
+Random Forest Classifier,"['Credit_History', 'Gender', 'Coapplicant']",0.8173913043478261,0.7941176470588235,1.0,0.8852459016393442,0.6911764705882353
+Random Forest Classifier,"['Credit_History', 'Gender', 'Married', 'Dependents']",0.8173913043478261,0.7941176470588235,1.0,0.8852459016393442,0.6911764705882353
+Random Forest Classifier,"['Credit_History', 'Gender', 'Married', 'Education']",0.8173913043478261,0.7941176470588235,1.0,0.8852459016393442,0.6911764705882353
+Random Forest Classifier,"['Credit_History', 'Gender', 'Married', 'Self_Employed']",0.8173913043478261,0.7941176470588235,1.0,0.8852459016393442,0.6911764705882353
+Random Forest Classifier,"['Credit_History', 'Gender', 'Married', 'Loan_Amount_Term_Months']",0.8173913043478261,0.7941176470588235,1.0,0.8852459016393442,0.6911764705882353
+Random Forest Classifier,"['Credit_History', 'Gender', 'Married', 'Property_Area']",0.7217391304347827,0.7692307692307693,0.8641975308641975,0.813953488372093,0.623275236020334
+Random Forest Classifier,"['Credit_History', 'Gender', 'Married', 'Applicant_Income(total yearly)_to_Loan_Amount(total)']",0.6086956521739131,0.7142857142857143,0.7407407407407407,0.7272727272727273,0.5174291938997821
+Random Forest Classifier,"['Credit_History', 'Gender', 'Married', 'Coapplicant']",0.8173913043478261,0.7941176470588235,1.0,0.8852459016393442,0.6911764705882353
+Random Forest Classifier,"['Credit_History', 'Gender', 'Married', 'Dependents', 'Education']",0.8173913043478261,0.7941176470588235,1.0,0.8852459016393442,0.6911764705882353
+Random Forest Classifier,"['Credit_History', 'Gender', 'Married', 'Dependents', 'Self_Employed']",0.8173913043478261,0.7941176470588235,1.0,0.8852459016393442,0.6911764705882353
+Random Forest Classifier,"['Credit_History', 'Gender', 'Married', 'Dependents', 'Loan_Amount_Term_Months']",0.8173913043478261,0.7941176470588235,1.0,0.8852459016393442,0.6911764705882353
+Random Forest Classifier,"['Credit_History', 'Gender', 'Married', 'Dependents', 'Property_Area']",0.7304347826086957,0.7840909090909091,0.8518518518518519,0.8165680473372782,0.6465141612200436
+Random Forest Classifier,"['Credit_History', 'Gender', 'Married', 'Dependents', 'Applicant_Income(total yearly)_to_Loan_Amount(total)']",0.6869565217391305,0.7528089887640449,0.8271604938271605,0.7882352941176471,0.5900508351488745
+Random Forest Classifier,"['Credit_History', 'Gender', 'Married', 'Dependents', 'Coapplicant']",0.8173913043478261,0.8,0.9876543209876544,0.8839779005524862,0.6997095134350035
+Random Forest Classifier,"['Credit_History', 'Gender', 'Married', 'Dependents', 'Coapplicant', 'Education']",0.7739130434782608,0.7894736842105263,0.925925925925926,0.8522727272727273,0.6688453159041394
+Random Forest Classifier,"['Credit_History', 'Gender', 'Married', 'Dependents', 'Coapplicant', 'Self_Employed']",0.7913043478260869,0.7938144329896907,0.9506172839506172,0.8651685393258426,0.6811909949164852
+Random Forest Classifier,"['Credit_History', 'Gender', 'Married', 'Dependents', 'Coapplicant', 'Loan_Amount_Term_Months']",0.8173913043478261,0.8,0.9876543209876544,0.8839779005524862,0.6997095134350035
+Random Forest Classifier,"['Credit_History', 'Gender', 'Married', 'Dependents', 'Coapplicant', 'Property_Area']",0.7652173913043478,0.7872340425531915,0.9135802469135802,0.8457142857142856,0.6626724763979666
